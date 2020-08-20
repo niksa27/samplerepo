@@ -1,3 +1,3 @@
-# welcometoskillrary
+# Welcome to CI class
 
-Hi This is from DevOps 107 US Batch
+This for demo
